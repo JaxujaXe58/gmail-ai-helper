@@ -1,0 +1,23 @@
+{
+  "module": "gmail-ai-helper",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "reader": {
+      "enabled": true
+    },
+    "sorter": {
+      "enabled": true
+    },
+    "drafts": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
