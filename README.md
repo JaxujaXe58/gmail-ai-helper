@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: gmail-ai-helper, ai, assistant, tool, sort, drafts, productivity, gmail, cli, developer-tools, open-source, windows, automation, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+gmail ai assistant tool tool sort drafts productivity gmail-ai-helper mail-assistant-ai gmail-ai-assistant windows portable prebuilt x64 free download
+related: gmail, ai, assistant, tool, tool, sort, drafts, productivity
